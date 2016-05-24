@@ -1,0 +1,24 @@
+{
+  "url": "https://company.zendesk.com/api/v2/ticket_forms/123.json",
+  "id": 109015,
+  "name": "Ticket Form Name",
+  "raw_name": "Ticket Form Name",
+  "display_name": "Ticket Form Name",
+  "raw_display_name": "Ticket Form Name",
+  "end_user_visible": false,
+  "position": 2,
+  "ticket_field_ids": [
+    12,
+    34,
+    45,
+    56
+  ],
+  "active": true,
+  "default": false,
+  "created_at": "2016-05-11T14:24:45Z",
+  "updated_at": "2016-05-11T14:26:43Z",
+  "in_all_brands": true,
+  "restricted_brand_ids": [],
+  "in_all_organizations": true,
+  "restricted_organization_ids": []
+}
